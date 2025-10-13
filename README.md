@@ -16,13 +16,4 @@ I'm a developer from Indonesia who builds tools using microcontrollers and deskt
 
 ### 📫 Contact
 
-- 🔗 GitHub: [@debugmeAI](https://github.com/debugmeAI)  
 - ✉️ Email: gilangfauzi72@gmail.com
-
----
-
-_Thanks for visiting my profile!_ 👇
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/debugmeAI/debugmeAI/main/logo.png" width="80" alt="GF Logo"/>
-</p>
