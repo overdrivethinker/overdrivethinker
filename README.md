@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gilang Fauzi (@debugmeAI)
+# 👋 Hi, I'm Gilang Fauzi (@overdrivethinker)
 
 I'm a developer from Indonesia who builds tools using microcontrollers and desktop technologies.
 
