@@ -23,4 +23,6 @@ I'm a developer from Indonesia who builds tools using microcontrollers, web tech
 
 ---
 
+[![overdrivethinker's GitHub stats](https://github-readme-stats.vercel.app/api?username=overdrivethinker)](https://github.com/overdrivethinker/github-readme-stats)
+
 Building things that matter 🛠️
